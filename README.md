@@ -1,4 +1,4 @@
-#SoftSeguros Ecommerce Challenge
+# SoftSeguros Ecommerce Challenge
 
 ![Vista Previa](Captura.png)
 
